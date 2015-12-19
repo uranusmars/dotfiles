@@ -1,0 +1,12 @@
+set completion-ignore-case on
+set expand-tilde on
+set visible-stats on
+set completion-prefix-display-length 2
+set show-all-if-ambiguous on
+set show-all-if-unmodified on
+set completion-map-case on
+Control-j: menu-complete
+Control-k: menu-complete-backward
+set convert-meta off
+set meta-flag on
+set output-meta on
